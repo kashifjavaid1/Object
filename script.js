@@ -30,14 +30,14 @@
     age:22,
     skill:"Graphic design",
 },
-// {
-//     Name:"umair",
-//     roll_No:612711,
-//     Department:"BSIT",
-//     semester:"4th",
-//     age:19,
-//     skill:"c++",
-// }]
+{
+    Name:"umair",
+    roll_No:612711,
+    Department:"BSIT",
+    semester:"4th",
+    age:19,
+    skill:"c++",
+}]
 // for (var abc= 0; abc< student_data.length; abc++) {
 //    const elemt=student_data[abc];
 //    if (elemt.Name=="kashif") {
