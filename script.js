@@ -14,14 +14,14 @@
     age:18,
     skill:"video editing",
  },
-//  {
-//     Name:"kashif",
-//     roll_No:612709,
-//     Department:"BSIT",
-//     semester:"4th",
-//     age:21,
-//     skill:"Mobile Apps"
-//  },
+ {
+    Name:"kashif",
+    roll_No:612709,
+    Department:"BSIT",
+    semester:"4th",
+    age:21,
+    skill:"Mobile Apps"
+ },
 // {
 //     Name:"Waleed",
 //     roll_No:612710,
