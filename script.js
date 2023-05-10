@@ -6,14 +6,14 @@
     age:17,
     skill:"web desgin",
  }, 
-//  {
-//     Name:"abubaker",
-//     roll_No:612708,
-//     Department:"BSIT",
-//     semester:"4th",
-//     age:18,
-//     skill:"video editing",
-//  },
+ {
+    Name:"abubaker",
+    roll_No:612708,
+    Department:"BSIT",
+    semester:"4th",
+    age:18,
+    skill:"video editing",
+ },
 //  {
 //     Name:"kashif",
 //     roll_No:612709,
