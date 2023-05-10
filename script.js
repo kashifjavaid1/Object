@@ -38,9 +38,9 @@
     age:19,
     skill:"c++",
 }]
-// for (var abc= 0; abc< student_data.length; abc++) {
-//    const elemt=student_data[abc];
-//    if (elemt.Name=="kashif") {
-//     console.log(elemt.skill);
-//    }
-// }
+for (var abc= 0; abc< student_data.length; abc++) {
+   const elemt=student_data[abc];
+   if (elemt.Name=="kashif") {
+    console.log(elemt.skill);
+   }
+}
