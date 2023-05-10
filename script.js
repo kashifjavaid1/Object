@@ -22,14 +22,14 @@
     age:21,
     skill:"Mobile Apps"
  },
-// {
-//     Name:"Waleed",
-//     roll_No:612710,
-//     Department:"BSIT",
-//     semester:"4th",
-//     age:22,
-//     skill:"Graphic design",
-// },
+{
+    Name:"Waleed",
+    roll_No:612710,
+    Department:"BSIT",
+    semester:"4th",
+    age:22,
+    skill:"Graphic design",
+},
 // {
 //     Name:"umair",
 //     roll_No:612711,
